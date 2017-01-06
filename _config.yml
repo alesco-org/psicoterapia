@@ -1,10 +1,10 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Sportello Psicologico
+description: Sportello Psicologico - Dott.sse Ierace e Papini
 
-url: http://brianmaierjr.github.com/long-haul
+#url: http://brianmaierjr.github.com/long-haul
 baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+#paginate_path: "blog/page:num/"
+#permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
@@ -14,15 +14,19 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: About
+ - title: Chi siamo?
    url: /about
- - title: Contact
+ - title: Sostegno Psicologico
+ - title: Terapia Individuale
+ - title: Terapia di Coppia
+ - title: Terapia Familiare
+ - title: Contatti
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+#   github: brianmaierjr
+#   twitter: brianmaierjr
+#   facebook: brianmaierjr
+   email: elenaierace@gmail.com
 
-google_analytics: "UA-58263416-1"
+#google_analytics: "UA-58263416-1"

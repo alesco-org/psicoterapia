@@ -1,25 +1,16 @@
 ---
 layout: default
-title: About Long Haul
+title: Chi siamo
 ---
 
-<div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
-	<ul>
-		<li>Built with <a href="http://sass-lang.com/">SASS</a> + <a href="http://compass-style.org/">COMPASS</a></li>
-  		<li>Layout with <a href="http://susy.oddbird.net/">SUSY Grid</a></li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
-</div>
+# Chi siamo
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fringilla maximus velit, et imperdiet tortor bibendum a. Aliquam tempus sollicitudin enim vel lacinia. Cras eleifend tempus justo ac fermentum. Donec sem tellus, consectetur ut viverra eget, vehicula et dolor. Pellentesque posuere quam sed eros rhoncus, sit amet vehicula nisl dignissim. Nunc neque quam, placerat eget ligula vel, laoreet egestas odio. Proin aliquet ex nibh, eget pharetra nulla fringilla et. Quisque interdum viverra eros, eu fringilla lectus viverra at.
+
+Integer tristique mollis ultrices. Quisque vitae blandit eros, porta laoreet erat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque nec quam maximus, aliquam nisi vitae, venenatis ipsum. Praesent ut elementum turpis. Ut blandit id ante in tincidunt. Donec sit amet mollis magna. Curabitur placerat eleifend lectus, vel tempus eros ultrices nec. Donec ornare pellentesque leo sed blandit. Cras lectus turpis, dictum at tempor ac, scelerisque sed diam. Aliquam auctor ante ac ipsum suscipit congue. Maecenas sed lectus dignissim, fermentum diam vitae, lacinia felis. Maecenas venenatis libero ut risus suscipit dapibus. Fusce eu ante et massa elementum porta. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Mauris cursus in enim vel aliquam. Integer non lectus sit amet nulla faucibus feugiat nec et nunc. Nullam elit tortor, sagittis in dolor a, porttitor eleifend enim. Integer cursus ut ex quis euismod. Vestibulum pellentesque, nulla eget scelerisque faucibus, enim nisi volutpat libero, at luctus ante tellus ac nisl. Donec gravida pellentesque quam, id accumsan tellus finibus sit amet. Mauris fermentum porta viverra. Nullam sit amet semper elit, id scelerisque tellus. Vivamus eleifend sapien ante, sed condimentum enim tempus in.
+
+Pellentesque mattis mollis scelerisque. Ut elementum est eget arcu dictum, nec sodales augue eleifend. Integer vel leo metus. Suspendisse lobortis magna lectus, quis ornare nunc posuere et. Aliquam in porttitor elit. Nam non sapien a felis tincidunt vulputate. Etiam ut odio leo. Maecenas eget ex sed mi egestas volutpat sit amet ac ante. Curabitur volutpat tellus sed leo facilisis, vitae porta nisl eleifend. Quisque massa diam, gravida quis auctor sit amet, euismod at nibh. Maecenas ornare, nibh at ultricies vehicula, tortor ex semper lorem, at egestas nulla tellus quis metus. Mauris vulputate lacus ac fringilla hendrerit.
+
+Aenean sollicitudin ligula mauris, eget dignissim massa volutpat ac. Integer ac scelerisque metus. Donec ullamcorper hendrerit neque eu condimentum. Nunc elit massa, semper a lorem sit amet, efficitur commodo lacus. Vivamus rutrum lorem nibh, maximus efficitur diam ultricies vitae. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean eu libero sed sapien hendrerit laoreet quis at purus. Vestibulum mollis neque non urna dictum, a venenatis sapien dictum. Ut gravida eu odio commodo volutpat. Duis fermentum laoreet lectus. Maecenas a nisl sed purus facilisis aliquet malesuada aliquam nibh. Morbi volutpat vitae massa sit amet vehicula.
