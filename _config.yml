@@ -1,4 +1,5 @@
 title: Sportello Psicologico
+owner: Dott.sse Ierace e Papini
 description: Sportello Psicologico - Dott.sse Ierace e Papini
 
 #url: http://brianmaierjr.github.com/long-haul
@@ -15,13 +16,17 @@ navigation:
  - title: Home
    url: /index.html
  - title: Chi siamo?
-   url: /about
+   url: /chi-siamo
  - title: Sostegno Psicologico
+   url: /sostegno-psicologico
  - title: Terapia Individuale
+   url: /terapia-individuale
  - title: Terapia di Coppia
+   url: /terapia-di-coppia
  - title: Terapia Familiare
- - title: Contatti
-   url: /contact
+   url: /terapia-familiare
+ - title: Contattaci
+   url: /contattaci
 
 social:
 #   github: brianmaierjr
