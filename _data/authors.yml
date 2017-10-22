@@ -1,16 +1,16 @@
 elena-ierace:
-  name             : "Elena Ierace"
+  name             : "Dott.ssa Elena Ierace"
   avatar           : "/assets/images/profile/elena.jpg"
-  bio              : "Psicologa, Psicoterapeuta"
+  bio              : "Psicologa"
   location         : "Roma"
   email            : "elenaierace@gmail.com"
-  phone            : "xxx"
+  phone            : "333 3333 333"
 
 
 giulia-papini:
-  name             : "Giulia Papini"
+  name             : "Dott.ssa Giulia Papini"
   avatar           : "/assets/images/profile/giulia.jpg"
-  bio              : "Psicologa, Psicoterapeuta"
+  bio              : "Psicologa"
   location         : "Roma"
   email            : "giuly.papini@gmail.com"
-  phone            : "xxx"
+  phone            : "333 3333 333"
