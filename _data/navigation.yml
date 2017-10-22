@@ -1,0 +1,21 @@
+# main links
+main:
+  - title: "Blog"
+    url: "/blog"
+  - title: "Chi Siamo"
+    url: "/#chi-siamo"
+  - title: "Cosa Facciamo"
+    url: "/#cosa-facciamo"
+  - title: "Contatti"
+    url: "/#contatti"
+  - title: "Link"
+    url: "/#link"
+
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

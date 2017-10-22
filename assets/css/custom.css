@@ -1,0 +1,82 @@
+
+/* General style */
+
+div.feature__wrapper {
+  border-bottom: none;
+}
+
+.blog-featured-image {
+  width: auto;
+}
+
+.blog-featured-image img {
+  border-radius: 6px;
+  margin-left: 0;
+  margin-bottom: 10px;
+}
+@media (min-width: 64em) {
+  .blog-featured-image {
+    width: 50%;
+    float: right;
+  }
+
+  .blog-featured-image img {
+    border-radius: 6px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+  }
+}
+
+section.page__content {
+  text-align: justify;
+}
+
+/* Aree di intervento */
+
+.feature__wrapper.aree-intervento ul {
+  list-style: none;
+}
+
+
+/* Chiama ora */
+
+.chiama-ora {
+  background-color: rgba(240, 230, 250, 0.8);
+  margin-left: -50%;
+  width: 200%;
+  text-align: center;
+  clear: both;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+/* Authors */
+
+.author__content.custom-author {
+  display: block;
+}
+
+.author__avatar__embedded.custom-author {
+  width: 80px;
+  height: auto;
+}
+
+.author__avatar__embedded.custom-author .author__avatar {
+  width: 80px;
+  height: 80px;
+}
+
+@media (min-width: 64em) {
+  .author__avatar__embedded.custom-author {
+    width: 110px;
+    height: auto;
+  }
+
+  .author__avatar__embedded.custom-author .author__avatar {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+}
